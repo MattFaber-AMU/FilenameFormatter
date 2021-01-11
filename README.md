@@ -2,7 +2,7 @@
 This filename formatter will save time by making filenames OS agnostic, meaning they can be moved to many Operating Systems
 
 # Install
-git clone 
+git clone https://github.com/kubecode30/FilenameFormatter.git
 
 # Local Development
 To start locally:
